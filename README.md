@@ -4,7 +4,7 @@ Simple Python script that accepts an alcohol volume prompt (in ml) and returns t
 
 ## Usage
 
-1. Make the `limoncello.py` an executable
+1. Make the `limoncello.py` an executable (`chmod +x limoncello.py`)
 2. Run the script `./limoncello.py` and enter the alcohol volume
 3. The script returns the desired water & sugar quantities
 
