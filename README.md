@@ -1,4 +1,3 @@
-🍋 LIMONCELLO RECIPE
 # 🍋 Limoncello recipe
 
 Simple Python script that accepts an alcohol volume prompt (in ml) and returns the desired amount of water & sugar ratio to add to make _Awaycello_.
